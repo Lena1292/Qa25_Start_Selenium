@@ -31,6 +31,12 @@ public class HomeWork {
     WebElement button1 = wd.findElement(By.tagName("button"));
 
     List<WebElement> list1 = wd.findElements(By.tagName("div"));
+
+    WebElement h1 = wd.findElement(By.tagName("h1"));
+
+    WebElement form = wd.findElement(By.tagName("form"));
+    WebElement form1 = wd.findElement(By.tagName("form1"));
+    
 }
 
 
