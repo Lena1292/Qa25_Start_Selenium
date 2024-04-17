@@ -16,7 +16,7 @@ public class Index {
     @BeforeClass
     public void setUp() {
         wd = new ChromeDriver();
-        wd.get("file:///C:/Users/marii/Downloads/qa/21.index.html");
+        wd.get("file:///C:/Users/Artem/Downloads/21.index%20(1).html");
     }
 
     @Test
